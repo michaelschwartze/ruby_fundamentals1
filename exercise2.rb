@@ -24,4 +24,4 @@ puts "The answer to my math is #{mymath}!"
 #(10 < 20 && 30 < 20) || !(10 == 11)
 # (true && false) || !(false)
 # (false) || true
-# false
+# true
